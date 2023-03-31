@@ -1,0 +1,11 @@
+Model Information:
+* title:	кубик рубика
+* source:	https://sketchfab.com/3d-models/0cb7f555efca42308753fce60b282c77
+* author:	Doot (https://sketchfab.com/doot_)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "кубик рубика" (https://sketchfab.com/3d-models/0cb7f555efca42308753fce60b282c77) by Doot (https://sketchfab.com/doot_) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
